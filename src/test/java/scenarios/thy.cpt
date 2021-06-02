@@ -1,0 +1,21 @@
+#APPIUM project steps
+*Click on the book a flight button
+*<5> wait seconds
+*Select one way
+*<5> wait seconds
+*Fill flight from the airport value out
+*<5> wait seconds
+*Fill flight to the airport value out
+*<5> wait seconds
+*passenger numbers
+*<5> wait seconds
+*identify the date
+*<5> wait seconds
+*Search the flight
+*<5> wait seconds
+*Select the flight
+*<5> wait seconds
+*Identify the class of the flight
+*<5> wait seconds
+*continue
+*<5> wait seconds

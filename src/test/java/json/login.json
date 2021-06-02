@@ -1,0 +1,7 @@
+{
+  "deviceName": "emulator-5554",
+  "platformName": "android",
+  "appPackage": "com.turkishairlines.mobile",
+  "appActivity": ".ui.ACSplash",
+  "noReset": true
+}
